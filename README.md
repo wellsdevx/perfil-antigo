@@ -1,118 +1,124 @@
 <div align="center">
 
-# 👋 Olá, eu sou o Welder!
+<img src="./assets/wellsdevx-banner.svg" alt="WellsDevX — Build, Learn, Level Up" width="100%" />
 
-### 💻 Tecnologia • Suporte Técnico • Desenvolvimento
+### 🎮 PLAYER ONE: WELDER VIANA
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Construindo+minha+carreira+em+tecnologia;Aprendendo+um+projeto+de+cada+vez;Transformando+conhecimento+em+pr%C3%A1tica" alt="Typing SVG" />
+**Estudante de Análise e Desenvolvimento de Sistemas · Tecnologia · Jogos · Criação**
 
-</div>
-
----
-
-## 👨‍💻 Sobre mim
-
-Sou apaixonado por **tecnologia**, aprendizado e por entender como as coisas funcionam.
-
-Atualmente estou construindo minha trajetória na área de TI, desenvolvendo conhecimentos em **Análise e Desenvolvimento de Sistemas**, com interesse especial por **Suporte Técnico, Hardware, Desenvolvimento e Cibersegurança**.
-
-Também atuo compartilhando conhecimentos em tecnologia, experiência que vem fortalecendo minha comunicação, organização e capacidade de transformar assuntos técnicos em algo mais simples e prático.
-
-> 🚀 Este GitHub é também um registro da minha evolução. Novos estudos e projetos vão aparecer por aqui conforme avanço na área.
-
----
-
-## 🎯 Atualmente
-
-- 🎓 Estudando **Análise e Desenvolvimento de Sistemas**
-- 💻 Desenvolvendo meus conhecimentos em **programação**
-- 🔐 Explorando o mundo da **Cibersegurança**
-- 🖥️ Aprofundando conhecimentos em **Suporte Técnico e Hardware**
-- 🐧 Aprendendo mais sobre **Linux**
-- 👨‍🏫 Compartilhando conhecimento em **tecnologia**
-- 🚀 Construindo meus primeiros projetos para o GitHub
-
----
-
-## 🛠️ Tecnologias & Ferramentas
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,git,github,linux,windows,photoshop,vscode" alt="Tecnologias e ferramentas" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-![Hardware](https://img.shields.io/badge/Hardware-111827?style=for-the-badge&logo=pcgamingwiki&logoColor=white)
-![Suporte Técnico](https://img.shields.io/badge/Suporte_Técnico-0A66C2?style=for-the-badge&logo=windows&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0A66C2?style=for-the-badge&logo=hackthebox&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wellsviana)
+[![Missões](https://img.shields.io/badge/STATUS-CAMPANHA%20EM%20ANDAMENTO-6A8BFF?style=for-the-badge)](https://github.com/wellsdevx?tab=repositories)
 
 </div>
 
 ---
 
-## 📊 GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=wellsdevx&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellsdevx&layout=compact&theme=github_dark&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas" />
-
-</div>
-
-> 📌 Meu perfil ainda está no começo. As estatísticas vão crescer junto com meus estudos e projetos.
-
----
-
-## 🗺️ Minha jornada
+## 🕹️ INICIAR CAMPANHA // SOBRE MIM
 
 ```text
-Tecnologia
-   │
-   ├── 🖥️ Suporte Técnico & Hardware
-   │
-   ├── 🌐 Desenvolvimento
-   │
-   ├── 🐧 Linux
-   │
-   ├── 🔐 Cibersegurança
-   │
-   └── 🚀 Próximos projetos...
+> carregar_jogador wellsdevx
+[OK] Classe: desenvolvedor em evolução
+[OK] Habilidades: suporte técnico, front-end e modelagem de dados
+[OK] Estilo de jogo: exploração, parkour, stealth e progressão
+[>>] Missão principal: transformar ideias em projetos reais
 ```
 
----
+Sou **Welder**, estudante de **Análise e Desenvolvimento de Sistemas**. Gosto de entender como as coisas funcionam, de computadores e redes até sistemas, interfaces e jogos. Também tenho experiência com suporte técnico e ensino de informática.
 
-## 📚 Próximos passos
+Meu estilo de jogo favorito combina **movimentação, exploração, liberdade e estratégia**. É por isso que gosto tanto de **Assassin's Creed**, da movimentação dos jogos do **Homem-Aranha**, das aventuras de **One Piece**, das missões de **Bully: Scholarship Edition** e da exploração de **Hogwarts Legacy**.
 
-- [ ] Publicar meus primeiros projetos
-- [ ] Aprimorar HTML e CSS
-- [ ] Avançar nos estudos de programação
-- [ ] Criar projetos relacionados à faculdade
-- [ ] Explorar ferramentas de Cibersegurança
-- [ ] Construir meu portfólio de tecnologia
+Essas referências alimentam minha vontade de criar experiências próprias — especialmente o **Snapline**, meu projeto de jogo com parkour, movimentação urbana e stealth.
 
----
+> **Meu GitHub é meu diário de evolução:** não é sobre parecer um especialista, mas mostrar o que estou construindo e aprendendo de verdade.
 
-## 🤝 Vamos nos conectar!
+## 🗺️ MAPA DE MISSÕES
+
+| Missão | Desafio | Progresso |
+| --- | --- | --- |
+| 🌍 **Atlas — Exploração Web** | Desenvolver um site em grupo com HTML e CSS | 🟡 Em andamento |
+| 🗃️ **UPSkill — Arquivo de Dados** | Modelar um sistema de gestão educacional e seu banco de dados | 🟡 Em andamento |
+| 🏙️ **Snapline — Movimento Livre** | Prototipar parkour, fluidez e stealth no Roblox | 🟡 Protótipo |
+| 🔐 **Cibersegurança — Território Desconhecido** | Estudar fundamentos e desenvolver projetos | 🔒 Próxima missão |
+
+## ⚔️ ÁRVORE DE HABILIDADES
+
+<details>
+<summary><b>🌐 FRONT-END — abrir habilidades</b></summary>
+
+- HTML semântico e estrutura de páginas
+- CSS, alinhamento, Flexbox e Grid — **em evolução**
+- Integração de páginas em projetos de equipe
+
+</details>
+
+<details>
+<summary><b>🗃️ BANCO DE DADOS — abrir habilidades</b></summary>
+
+- Requisitos e regras de negócio
+- Entidades, atributos, relacionamentos e cardinalidades
+- DER, modelagem relacional e SQL — **em estudo**
+
+</details>
+
+<details>
+<summary><b>🛠️ SUPORTE E FERRAMENTAS — abrir habilidades</b></summary>
+
+- Suporte técnico, hardware e manutenção
+- Windows, Linux, Git, GitHub e VS Code
+- Ensino e comunicação de conceitos técnicos
+
+</details>
+
+<details>
+<summary><b>🎮 GAME DEVELOPMENT — abrir habilidades</b></summary>
+
+- Roblox Studio e prototipagem
+- Parkour, movimentação, câmera e stealth
+- Design de experiências inspirado em exploração e liberdade de movimento
+
+</details>
+
+## 🏆 CONQUISTAS DESBLOQUEÁVEIS
+
+- [x] **FIRST SPAWN** — criar meu perfil no GitHub
+- [x] **PLAYER CARD** — montar minha apresentação
+- [ ] **WEB EXPLORER** — publicar o Atlas completo
+- [ ] **DATA ARCHITECT** — publicar a documentação e o banco da UPSkill
+- [ ] **PARKOUR ENGINEER** — documentar uma versão jogável do Snapline
+- [ ] **PORTFOLIO QUEST** — reunir projetos e evidências da minha evolução
+
+> As conquistas são atualizadas manualmente quando as atividades são realmente concluídas.
+
+## 📦 INVENTÁRIO // PROJETOS
+
+**🌍 [Atlas_Project](https://github.com/wellsdevx/Atlas_Project)** — projeto acadêmico de desenvolvimento Front-End. Repositório criado; arquivos do site em preparação.
+
+**🗃️ UPSkill** — projeto acadêmico de modelagem de dados para gestão educacional. Documentação e implementação em revisão antes da publicação.
+
+**🏙️ Snapline** — projeto pessoal de desenvolvimento de jogo no Roblox. Protótipo em evolução; ainda não publicado neste GitHub.
+
+## 👾 BOSS FIGHTS // DESAFIOS DA SEMANA
+
+| Desafio | Objetivo |
+| --- | --- |
+| 🎨 CSS | Entender alinhamentos, layouts e explicar cada decisão |
+| 🧩 DER | Dominar entidades, cardinalidades e integridade |
+| 💾 GitHub | Organizar código, documentação e histórico de evolução |
+
+## 📊 SAVE GAME // ATIVIDADE
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/wellsviana">
-  <img src="https://img.shields.io/badge/LinkedIn-Welder_Viana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=wellsdevx&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
-### 💡 Aprender. Criar. Evoluir.
+### BUILD • LEARN • LEVEL UP
 
-![Visualizações](https://komarev.com/ghpvc/?username=wellsdevx&style=for-the-badge&color=0A66C2)
+*Cada projeto é uma missão. Cada erro ensina uma mecânica nova.*
 
 </div>
