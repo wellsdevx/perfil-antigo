@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="380" viewBox="0 0 1120 380" role="img" aria-label="WellsDevX: Player One, construindo projetos e evoluindo em tecnologia">
+<defs>
+ <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#080E20"/><stop offset="0.53" stop-color="#101D3B"/><stop offset="1" stop-color="#1B1040"/></linearGradient>
+ <linearGradient id="neon" x1="0" x2="1"><stop stop-color="#3CCBFF"/><stop offset="0.52" stop-color="#6097FF"/><stop offset="1" stop-color="#B778FF"/></linearGradient>
+ <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#80A0D0" stroke-width=".7" opacity=".12"/></pattern>
+ <filter id="glow"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <clipPath id="round"><rect width="1112" height="372" x="4" y="4" rx="20"/></clipPath>
+</defs>
+<g clip-path="url(#round)">
+ <rect x="4" y="4" width="1112" height="372" rx="20" fill="url(#bg)"/>
+ <rect x="4" y="4" width="1112" height="372" fill="url(#grid)"/>
+ <path d="M0 280L200 280L260 225L420 225L480 175L700 175L775 95L1140 95" fill="none" stroke="#3AA7F9" stroke-width="2" opacity=".18"/>
+ <path d="M0 306L242 306L302 250L475 250L525 196L710 196L790 115L1140 115" fill="none" stroke="#A671FF" stroke-width="2" opacity=".17"/>
+ <g opacity=".38" fill="none" stroke="#55A7F8" stroke-width="2">
+  <path d="M45 54h65l18 18h86"/><circle cx="45" cy="54" r="4" fill="#55A7F8"/>
+  <path d="M76 329h108l24-24h62"/><circle cx="76" cy="329" r="4" fill="#55A7F8"/>
+  <path d="M960 55h45l25 25h52"/><circle cx="1082" cy="80" r="4" fill="#55A7F8"/>
+ </g>
+ <rect x="43" y="43" width="147" height="31" rx="6" fill="#122B4E" stroke="#316B9F"/><circle cx="60" cy="58" r="4" fill="#49E4C7"/><text x="74" y="63" fill="#B0E9FA" font-size="14" font-family="monospace" font-weight="700">PLAYER 01</text>
+ <text x="43" y="155" fill="white" font-family="DejaVu Sans, Arial, sans-serif" font-weight="900" font-size="76" letter-spacing="-4">WELLS<tspan fill="#5FD8FF">DEV</tspan><tspan fill="#B98EFF">X</tspan></text>
+ <text x="46" y="197" fill="#BDD4F5" font-family="DejaVu Sans, Arial, sans-serif" font-weight="600" font-size="23" letter-spacing="4">BUILD  /  LEARN  /  LEVEL UP</text>
+ <rect x="46" y="227" width="515" height="2" fill="url(#neon)"/>
+ <text x="47" y="265" fill="#DAE8FF" font-family="monospace" font-size="20">MISSÃO ATUAL: TRANSFORMAR IDEIAS EM PROJETOS</text>
+ <text x="47" y="300" fill="#77A9DF" font-family="monospace" font-size="17">ADS  •  FRONT-END  •  SUPORTE  •  DADOS</text>
+ <g transform="translate(804 83)">
+  <rect x="0" y="0" width="251" height="239" rx="14" fill="#101A35" stroke="#3A548A"/>
+  <rect x="11" y="11" width="229" height="217" rx="9" fill="#0B1329" stroke="#183E6B"/>
+  <path d="M28 178h198M28 136h198M28 94h198M55 35v174M97 35v174M139 35v174M181 35v174" stroke="#3A4D79" opacity=".32"/>
+  <path d="M36 188l32-38 34 1 28-44 38 1 43-57" fill="none" stroke="#55CCFF" stroke-width="5" stroke-linecap="square" filter="url(#glow)"/>
+  <path d="M27 189l25 0M59 169l21 0M99 147l18 0M144 110l18 0" stroke="#B17FFF" stroke-width="3" opacity=".9"/>
+  <g fill="#F7FDFF" stroke="#5FD6FF" stroke-width="2">
+   <circle cx="211" cy="52" r="11"/>
+   <path d="M211 64l-11 26 15 11m-4-37 16 25-9 16m-18-15-23 6m38 5 18 17" fill="none" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="26" y="198" width="199" height="19" rx="5" fill="#122443"/>
+  <rect x="30" y="202" width="102" height="11" rx="3" fill="url(#neon)"/>
+  <text x="26" y="35" font-family="monospace" fill="#8BDBF5" font-size="13" font-weight="700">QUEST TRACKER</text>
+ </g>
+ <rect x="4" y="4" width="1112" height="372" rx="20" fill="none" stroke="#49619C" stroke-width="3"/>
+</g>
+</svg>
